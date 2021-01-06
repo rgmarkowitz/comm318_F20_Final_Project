@@ -1,12 +1,11 @@
 ## Data files for COMM318 _Stories from data_ Final Project
+    
+The following two  datasets were used for my data analysis:
 
-* This folder should contain the data files you have used in your analysis
+nfl_elo.csv: NFL data from FiveThirtyEight with Elo rankings from every NFL game from 1920 to today.
+https://github.com/fivethirtyeight/data/tree/master/nfl-elo
 
-
-* You should update this README file to list and describe the files.
-
-
-* You can also create additional sub-folders to better organize your data.
-    * For example, you could have a folder called `raw` or `orig` to contain the original data files you downloaded and then a folder called `final` or `clean` that contains versions of these data sheets that you have worked with to clean up missing data, to subset or merge etc.
+google_search_trends.csv: Google Trends data of the popularity of the search query 'Tom Brady Goat'
+https://trends.google.com/trends/explore?date=all&geo=US&q=tom%20brady%20goat
     
     
